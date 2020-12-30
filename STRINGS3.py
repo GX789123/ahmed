@@ -26,3 +26,6 @@ text = "codezilla"
 first_name = "ahmed"
 last_name = "muribut"
 print(first_name[0],last_name[0])
+
+text = "codezilla"
+print(text.index("z"))
