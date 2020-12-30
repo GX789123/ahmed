@@ -12,3 +12,6 @@ print(text.islower())
 
 text = "COdezilla"
 print(text.lower().islower())
+
+text = "COdezilla"
+print(text.lower().isupper())
