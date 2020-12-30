@@ -18,3 +18,6 @@ print(text.lower().isupper())
 
 text = "COdezilla"
 print(len(text))
+
+text = "codezilla"
+print(text[0])
