@@ -6,3 +6,7 @@ print(text.upper())
 
 text = "COdezilla"
 print(text.isupper())
+
+text = "COdezilla"
+print(text.islower())
+
