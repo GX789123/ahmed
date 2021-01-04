@@ -18,3 +18,6 @@ cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
 
 cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
 print(cars[:2])
+"
+cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
+print(cars[1:3])
