@@ -24,3 +24,11 @@ print(cars[1:3])
 "
 speed = [10, 15,20,100,350]
 print(speed[0])
+"
+cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
+speed = [10, 15,20,100,350]
+name = ['ahmed','jassim','muribut']
+cars.extend(speed)
+print(cars)
+name.extend(speed)
+print(name)
