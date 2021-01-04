@@ -10,3 +10,7 @@ print(cars[1])
 "
 cars = ['bmw' ,'merceds','alfaromeo']
 print(cars[-1])
+
+
+print(cars[2:])
+cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
