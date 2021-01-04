@@ -21,3 +21,6 @@ print(cars[:2])
 "
 cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
 print(cars[1:3])
+"
+speed = [10, 15,20,100,350]
+print(speed[0])
