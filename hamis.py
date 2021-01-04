@@ -32,3 +32,11 @@ cars.extend(speed)
 print(cars)
 name.extend(speed)
 print(name)
+"
+cars = ['bmw' ,'merceds','alfaromeo','feriri','honda']
+speed = [10, 15,20,100,350]
+name = ['ahmed','jassim','muribut']
+#cars.extend(speed)
+#cars.append('kia')
+cars.insert(2,'kia')
+print(cars)
