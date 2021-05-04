@@ -1,2 +1,0 @@
-text = "codezilla"
-print(text)
